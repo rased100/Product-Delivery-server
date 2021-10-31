@@ -41,6 +41,16 @@ async function run() {
         const database = client.db('current_delivery');
         const serviceCollection = database.collection('services');
 
+        // post api
+        app.post('/services', async (req, res) => {
+            const service = req.body;
+            console.log('hit post', service);
+
+            const result = await serviceCollection.insertOne(service);
+            console.log(result);
+            res.json(result)
+        });
+
         // get products api
         app.get('/services', async (req, res) => {
             const cursor = serviceCollection.find({});
