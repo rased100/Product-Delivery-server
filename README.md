@@ -2,7 +2,7 @@
 
 Live site: https://current-delivery.web.app
 
-Client site code link: https://github.com/rased100/delivery-website-server-side
+Client site code link: https://github.com/rased100/delivery-website-client-side
 
 Server site code link: https://github.com/rased100/delivery-website-server-side
 
