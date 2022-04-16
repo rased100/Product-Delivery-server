@@ -1,18 +1,16 @@
-﻿# CURRENT Delivery server side
+# [Product Delivery](https://current-delivery.web.app/)
+## About this website
+    •	You can book a service by clicking a book now button.
 
-Live site: https://current-delivery.web.app
+    •	Client can login by google sign in popup.
 
-Client site code link: https://github.com/rased100/delivery-website-client-side
+    •	You can add a new service in this site.
 
-Server site code link: https://github.com/rased100/delivery-website-server-side
+[live-site-link](https://current-delivery.web.app/) || [Client-Site-Code](https://github.com/rased100/Product-Delivery-client) || [Server-Site-Code](https://github.com/rased100/Product-Delivery-server)
 
+### Used Technologies: 
+**React JS, Node JS, Express JS, MongoDB, Firebase Login Method and Bootstrap.**
 
-- This website about Product Delivery.
-
-- We have different type service about  Product Delivery.
-
-- In this website user can register with there google account.
-
-- User can see detail of every service by clicking one by one.
-
-- This website made with React, React Router, Bootstrap, Javascript, Firebase Login Method.
+## Developer
+[Md Rasedul Islam](https://github.com/rased100/)
+    
